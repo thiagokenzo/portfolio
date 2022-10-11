@@ -15,8 +15,7 @@ html {
 }
 
 body {
-    background: url(./img/fundo4.jpg);
-    background-size: cover;
+    background-color: #f3f2f2;
     display: flex;
     justify-content: center;
 }
@@ -47,8 +46,8 @@ header {
     position: fixed;
     top: 0;
     z-index: 999;
-    background: url(./img/fundo4.jpg);
-    box-shadow: 0 1px 0 #fdefff;
+    background-color: #f3f2f2;
+    box-shadow: 0 2px 0 #ffffff;
     max-width: 100%;
     width: 100%;
 }
@@ -92,7 +91,7 @@ a {
     border: none;
     width: 150px;
     padding: 10px;
-    background-color: #7700ff;
+    background-color: #1321a0fa;
     color: #fff;
     font-size: 18px;
     cursor: pointer;
@@ -201,11 +200,11 @@ section#projects {
   
   .swiper-button-next, 
   .swiper-button-prev {
-    color: #7700ff;
+    color: #1321a0fa;
   }
   
   .swiper-pagination-bullet-active {
-    background-color: #7700ff ;
+    background-color: #1321a0fa ;
   }
 
 
