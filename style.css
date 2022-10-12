@@ -87,6 +87,10 @@ a {
     text-align: justify;
  }
 
+ .home-info p {
+    font-size: 25px;
+ }
+
 .home-info button {
     border: none;
     width: 150px;
