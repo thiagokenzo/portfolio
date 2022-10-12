@@ -159,17 +159,18 @@ section#projects {
   }
 
   section#projects #projetos {
-    font-size: 50px;
+    font-size: 45px;
+    margin-top: 50px;
   }
   
   .project-img1 {
-    width: 60%;
+    width: 50%;
   }
 
   .project-img1 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 40%;
+    width: 50%;
   }
 
   .project-img2 {
@@ -183,13 +184,13 @@ section#projects {
   }
 
   .project-img3 {
-    width: 60%;
+    width: 50%;
   }
 
   .project-img3 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 40%;
+    width: 50%;
   }
   
   .project-info {
