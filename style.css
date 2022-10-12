@@ -154,6 +154,7 @@ section#projects {
     justify-content: center;
     flex-direction: column;
     color: #fff;
+    margin-bottom: 40px;
   }
 
   #projects .portifolio p{
@@ -166,13 +167,13 @@ section#projects {
   }
   
   .project-img1 {
-    width: 50%;
+    width: 55%;
   }
 
   .project-img1 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 50%;
+    width: 55%;
   }
 
   .project-img2 {
@@ -186,13 +187,13 @@ section#projects {
   }
 
   .project-img3 {
-    width: 50%;
+    width: 55%;
   }
 
   .project-img3 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 50%;
+    width: 55%;
   }
   
   .project-info {
