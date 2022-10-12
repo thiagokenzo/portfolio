@@ -121,7 +121,7 @@ a {
 
 .home-img img {
     width: 210px;
-    height: 270px;
+    height: 245px;
     animation: float 5s ease-in-out infinite;
     box-shadow: 0 10px 10px; 
     border-radius: 10%;
