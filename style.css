@@ -164,13 +164,13 @@ section#projects {
   }
   
   .project-img1 {
-    width: 70%;
+    width: 60%;
   }
 
   .project-img1 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 50%;
+    width: 40%;
   }
 
   .project-img2 {
@@ -184,13 +184,13 @@ section#projects {
   }
 
   .project-img3 {
-    width: 70%;
+    width: 60%;
   }
 
   .project-img3 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 50%;
+    width: 40%;
   }
   
   .project-info {
