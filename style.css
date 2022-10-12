@@ -151,7 +151,7 @@ section#projects {
     align-content: center;
     justify-content: center;
     flex-direction: column;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     color: #fff;
   }
 
@@ -164,13 +164,13 @@ section#projects {
   }
   
   .project-img1 {
-    width: 80%;
+    width: 70%;
   }
 
   .project-img1 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 40%;
+    width: 50%;
   }
 
   .project-img2 {
@@ -184,13 +184,13 @@ section#projects {
   }
 
   .project-img3 {
-    width: 80%;
+    width: 70%;
   }
 
   .project-img3 img {
     box-shadow: 0 1px 2px #0003;
     object-fit: cover;
-    width: 40%;
+    width: 50%;
   }
   
   .project-info {
