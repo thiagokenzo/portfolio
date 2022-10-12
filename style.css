@@ -116,11 +116,11 @@ a {
 }
 
 .home-img img {
-    width: 180px;
-    height: 180px;
+    width: 210px;
+    height: 250px;
     animation: float 5s ease-in-out infinite;
     box-shadow: 0 10px 10px; 
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 @keyframes float {
